@@ -16,7 +16,7 @@ The Candidate Shortlisting System is a Python-based application designed to pars
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/resume-summarization-system.git
+    git clone https://github.com/sunidhii09/Candidate-Shortlisting-System.git
     ```
 
 2. **Download the pre-trained models for NLP tasks** (e.g., BART model from Hugging Face Transformers) and place them in the appropriate directories.

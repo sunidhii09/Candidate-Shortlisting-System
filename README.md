@@ -29,9 +29,7 @@ The Candidate Shortlisting System is a Python-based application designed to pars
 
 2. **Run the main script:**
 
-    ```bash
-    Resume_Screening.ipynb
-    ```
+    `Resume_Screening.ipynb`
 
 3. **View the results:**
    - Summarized information will be saved to the `Candidate Summary_Output` directory as CSV files.
